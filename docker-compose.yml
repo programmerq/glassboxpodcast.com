@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+    web:
+        image: registry.programmerq.net/glassboxpodcast.com
+        build: .
+        deploy:
+            labels:
+                - "traefik.enable=true"
+#                - "traefik.http.middlewares.redir-https.redirectscheme.scheme=https"
+#                - "traefik.http.routers.glassboxpodcast.rule=Host(`glassboxpodcas.com`)"
+#                - "traefik.http.routers.glassboxpodcast.middlewares=redir-https@docker"
+#                - "traefik.http.routers.glassboxpodcast-sec.rule=Host(`glassboxpodcas.com`)"
+#                - "traefik.http.routers.glassboxpodcast-sec.tls.certresolver=mycf"
+#                - "traefik.http.routers.glassboxpodcast-sec.entrypoints=websecure,web"
+#                - "traefik.http.services.glassboxpodcast-sec.loadbalancer.server.port=80"
+        networks:
+            traefik:
+networks:
+    traefik:
+        external: true
