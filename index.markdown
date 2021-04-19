@@ -2,58 +2,68 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 ---
 
 # Home
 
-## Hero Image
-
-<div id="banner-wrap">
-<div id="banner" class="container">
-<div class="wsite-elements wsite-not-footer wsite-header-elements">
-<div class="wsite-section-wrap">
-<div class="wsite-section wsite-header-section wsite-section-bg-image" style="vertical-align: middle;height: auto;background-image: url(&quot;/uploads/3/4/8/4/34848777/background-images/507077984.jpg&quot;) ;background-repeat: no-repeat ;background-position: 50.00% 56.97% ;background-size: 100% ;background-color: transparent ;background-size: cover;">
-<div class="wsite-section-content">
-
-<div class="container">
-<div class="wsite-section-elements">
-<h2 class="wsite-content-title"><font color="#d5d5d5" size="7">A Peek INside Deep Mormon Doctrine &amp; Culture</font></h2>
-
-<div class="paragraph">Host - Bryce Blankenagel<br>Co-host - Braden Hamm<br>Co-host - Shannon Grover<br></div>
-
-<div><div id="526301727446929997" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><script>window.podcastData={"title":"The Glassbox Podcast","subtitle":"A peak inside deep mormon doctrine.","description":"Glass Box Podcast takes a dive into a plethora of topics in and out of Mormonism. We start with a motivational, then headlines centered around the Mormon Church, recommend and review a TV show or movie that you NEED to check out, before we \"unbox\" deep Mormon doctrine. Sometimes we have a guest interview, or Mormon Leaks segment. Finally, we wrap up with a heartwarming headline you may have missed in all the chaos of current events. Hopefully we'll leave you feeling like the world isn't actually on fire in spite of what other media may have you believe.","cover":"http://glassboxpodcast.com/uploads/3/4/8/4/34848777/published/glass-box-podcast-lower-res.jpg?1530561873","feeds":[{"type":"audio","format":"mp3","url":"http://glassboxpodcast.libsyn.com/rss"}]}</script><iframe src="https://cdn.podlove.org/subscribe-button/button.html?id=9a15&amp;language=en&amp;size=big&amp;style=filled&amp;format=rectangle&amp;podcastTitle=The%2520Glassbox%2520Podcast&amp;podcastCover=http://glassboxpodcast.com/uploads/3/4/8/4/34848777/published/glass-box-podcast-lower-res.jpg?1530561873&amp;buttonColor=%2523f3a837" id="9a15" class="podlove-subscribe-button-iframe" style="border: none; display: inline-block; overflow: hidden;" height="54" width="180"></iframe><link rel="stylesheet" href="https://cdn.podlove.org/subscribe-button/stylesheets/app.css"><style>#podlove-subscribe-button, .podlove-subscribe-button { background-color: #f3a837; color: #412804; } #podlove-subscribe-button:active, .podlove-subscribe-button:active, #podlove-subscribe-button:hover, .podlove-subscribe-button:hover { background-color: #e9920e; color: #895408; } #podlove-subscribe-button.outline { border-color: #f3a837; color: #f3a837; } #podlove-subscribe-button.outline:active, #podlove-subscribe-button.outline:hover { background-color: #f3a837; color: #412804; } #podlove-subscribe-button.frameless { color: #f3a837; } #podlove-subscribe-button.frameless:active, #podlove-subscribe-button.frameless:hover { color: #e9920e; } #podlove-subscribe-popup #podlove-subscribe-popup-close-button, #podlove-subscribe-popup #podlove-subscribe-popup-help-button, #podlove-subscribe-popup .podlove-subscribe-back-button { color: #714607; } #podlove-subscribe-popup #podlove-subscribe-popup-close-button:active, #podlove-subscribe-popup #podlove-subscribe-popup-help-button:active, #podlove-subscribe-popup .podlove-subscribe-back-button:active, #podlove-subscribe-popup #podlove-subscribe-popup-close-button:hover, #podlove-subscribe-popup #podlove-subscribe-popup-help-button:hover, #podlove-subscribe-popup .podlove-subscribe-back-button:hover { color: #412804; } #podlove-subscribe-popup #podlove-subscribe-panel-clients .device-cloud-switch button .podlove-subscribe-tab-active { background-color: #f3a837; } #podlove-subscribe-popup #podlove-subscribe-panel-clients .device-cloud-switch button:active, #podlove-subscribe-popup #podlove-subscribe-panel-clients .device-cloud-switch button:hover, #podlove-subscribe-popup #podlove-subscribe-panel-clients .device-cloud-switch button.active { color: #714607; } #podlove-subscribe-popup #podlove-subscribe-panel-clients li:active, #podlove-subscribe-popup #podlove-subscribe-panel-clients li:hover { background-color: #f3a837; color: #412804; } #podlove-subscribe-popup #podlove-subscribe-panel-finish .podlove-subscribe-popup-finish-register { color: #714607; } #podlove-subscribe-popup #podlove-subscribe-panel-finish .podlove-subscribe-popup-finish-register:active, #podlove-subscribe-popup #podlove-subscribe-panel-finish .podlove-subscribe-popup-finish-register:hover { color: #412804; } #podlove-subscribe-popup #podlove-subscribe-button-help-panel { background-color: #f3a837; color: #412804; } #podlove-subscribe-popup h1::selection, #podlove-subscribe-popup p::selection, #podlove-subscribe-popup input::selection, #podlove-subscribe-popup span::selection, #podlove-subscribe-popup img::selection { background-color: rgba(243, 168, 55, 0.5); } #podlove-subscribe-popup h1::-moz-selection, #podlove-subscribe-popup p::-moz-selection, #podlove-subscribe-popup input::-moz-selection, #podlove-subscribe-popup span::-moz-selection, #podlove-subscribe-popup img::-moz-selection { background-color: rgba(243, 168, 55, 0.5); }</style><noscript><a href="http://glassboxpodcast.libsyn.com/rss">Subscribe to feed</a></noscript></div>
-</div>
-</div>
-</div>
-</div>
-<div class=""></div>
-</div>
-</div>
-</div>
-</div>
+<div class="hero-image" style='background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("GBP website cover.png"); height: 30em; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative;'>
+  <div class="hero-text" style='text-align: center; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; '>
+    <h2>A PEEK INSIDE DEEP MORMON DOCTRINE & CULTURE</h2>
+    <p>Host - Bryce Blankenagel</p>
+    <p>Co-host - Shannon Grover</p>
+  </div>
 </div>
 
-A PEEK INSIDE DEEP MORMON DOCTRINE & CULTURE
-Host - Bryce Blankenagel
-Co-host - Shannon Grover
 
+<!-- ![Glassbox](GBP website cover.png){:width="200px" style="float:left;padding-right:10px;"} -->
 
 ## Merchandise
 
-###BUY A SHIRT (OR MUG) SO PEOPLE KNOW YOU'RE NOT MORMON
+### Buy a t-shirt and a mug so people know you're a fan of the show!
 
-TODO Picture
-THE GLASS BOX PODCAST
-BUY THIS SHIRT
+<style>
+.column2 {
+  float: left;
+  width: 50%;
+}
 
-TODO Picture
-JOSEPH SMITH, PUPPET MASTER
-BUY THIS SHIRT
+.column3 {
+  float: left;
+  width: 33.33%;
+}
 
-TODO Picture
-NAKED MORMONISM
-BUY THIS SHIRT
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<div class="row">
+  <div class="column3" markdown="1">
+
+![Glassbox](gbp_shirt1.jpg){:width="200px" style="padding-right:10px;"}
+<p>THE GLASS BOX PODCAST</p>
+[BUY THIS SHIRT](https://exmomerch.creator-spring.com/listing/glass-box-podcast?product=2&variation=576&size=279)
+
+  </div>
+  <div class="column3" markdown="1">
+
+![Skepticize Everything Mug](gbp_mug1.jpg){:width="200px" style="padding-right:10px;"}
+<p>SKEPTICIZE EVERYTHING</p>
+[BUY THIS MUG](https://exmomerch.creator-spring.com/listing/skepticize-everything-glass-bo?product=658)
+
+  </div>
+  <div class="column3" markdown="1">
+
+![Glassbox](gbp_shirt2.jpg){:width="200px" style="padding-right:10px;"}
+<p>NAKED MORMONISM</p>
+[BUY THIS SHIRT](https://exmomerch.creator-spring.com/listing/wear-the-truth-exmormon-mercha?product=2&variation=568&size=279)
+
+  </div>
+</div>
 
 ## Patreon
 
@@ -67,19 +77,47 @@ PLUS exclusive **bonus** content, like **outtakes**, special episodes and shouto
 
 ## VISITORS WELCOME
 
-TODO Picture
-<br>A LITTLE ABOUT THE SHOW
+<div class="row">
+  <div class="column2" markdown="1">
 
-Glass Box Podcast takes a dive into a plethora of topics in and out of Mormonism. We start you off with a motivational quote before diving into headlines centered around the Mormon Church. After that we tell you all about a TV show or movie that you NEED to check out, priming you for the segment where we "unbox" deep Mormon doctrine. Sometimes we have a guest interview, sometimes not, you'll just have to listen to find out. Finally, we wrap up with a heartwarming headline you may have missed in all the chaos of current events. Hopefully we'll leave you feeling like the world isn't actually on fire in spite of what other media may have you believe.
+![Picture](GBPUpdate-full-res.png){:width="200px" style="padding-right:10px;"}
 
+#### A little about the show
 
-TODO Picture
-<br> OBJECTIVE
+Bryce & Shannon team up to take on headlines in and out of Mormonism to see
+what slipped through the cracks. We start with an inspirational quote, move on
+to Mormon headlines, do an occasional deep-dive or interview, learn about some
+interesting or pertinent media, then end with a positive news headline to show
+you that the world isn't always on fire. Enjoy! 
 
-When people leave Mormonism, often times it's a very hard shift. We hope to create a space where people inside or outside the Church can transition to a more diverse and holistic breadth of interests with a little humor sprinkled in to soften the blow. For anybody without any connection to Mormonism whatsoever, we're attempting to cover topics outside the Church, but still discuss deeper subjects and Mormon current events to introduce the uninitiated into the confusing and fascinating world that is Mormonism.
+  </div>
+  <div class="column3" markdown="1">
 
-**Be sure to listen to "Episode 0" to get an idea of what you can expect when you hit the "subscribe" button!**
+![Picture](Objective.jpg){:width="200px" style="padding-right:10px;"}
+
+#### Objective
+
+The Church of Jesus Christ of Latter-day Saints (Mormonism) exerts a
+stranglehold on the lives of millions of people worldwide. This isn’t your
+average talking heads current events podcast, nor is it an Ex-Mormon podcast.
+Instead, we contextualize subject matter to view modern issues in proper
+historical context, often from the Mormon angle. Drawing on decades of personal
+experience and research, Shannon and Bryce will help you process church
+history, dogma, and (cult)ure, gain perspective on a litany of modern issues,
+and appreciate a critical viewpoint in all its beauty. We hope this journey
+will help you gain control over your own life. Skepticize everything, folks!
+
+  </div>
+</div>
+
+**Be sure to listen to ["Episode
+0"](https://glassboxpodcast.libsyn.com/ep-0-unboxing-the-glass-box-podcast-listen-first)
+to get an idea of what you can expect when you hit the ["subscribe"](http://glassboxpodcast.libsyn.com/rss) button!**
 
 ## Episodes
 
-TODO: fill in episode link
+<iframe iframebody="0" width="100%" height="600px" style="border:0px;" src="https://glassboxpodcast.libsyn.com/page/1/size/4" title="episodes">
+
+## Subscribe
+
+TODO: do we want to keep the email list signup form?
