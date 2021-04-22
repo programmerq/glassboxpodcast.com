@@ -18,28 +18,8 @@ layout: page
 
 <!-- ![Glassbox](GBP website cover.png){:width="200px" style="float:left;padding-right:10px;"} -->
 
-## Merchandise
-
-### Buy a t-shirt and a mug so people know you're a fan of the show!
-
-<style>
-.column2 {
-  float: left;
-  width: 50%;
-}
-
-.column3 {
-  float: left;
-  width: 33.33%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
+## Buy a t-shirt and a mug so people know you're a fan of the show!
+{: style="text-align:center;"}
 
 <div class="row">
   <div class="column3" markdown="1">
@@ -65,15 +45,18 @@ layout: page
   </div>
 </div>
 
-## Patreon
+<div style="background-color:#1F5CEA; color:#ffffff; text-align: center;" markdown=1>
 
-### WE'RE ON PATREON
+## We're on Patreon
 
 Become one of our faithful followers and receive new episodes first.
 
 PLUS exclusive **bonus** content, like **outtakes**, special episodes and shoutouts.
 
-[SUPPORT US]()
+[SUPPORT US](https://www.patreon.com/GlassBoxPod)
+
+</div>
+
 
 ## VISITORS WELCOME
 
@@ -91,7 +74,7 @@ interesting or pertinent media, then end with a positive news headline to show
 you that the world isn't always on fire. Enjoy! 
 
   </div>
-  <div class="column3" markdown="1">
+  <div class="column2" markdown="1">
 
 ![Picture](Objective.jpg){:width="200px" style="padding-right:10px;"}
 
