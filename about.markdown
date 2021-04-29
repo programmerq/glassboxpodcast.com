@@ -27,7 +27,7 @@ I can't deny that the structure was beneficial, and I agree that it takes a vill
 
 ### Shannon Grover
 
-![Shannon](/shannon-mission.jpg){:width="315px" style="float:left;padding-right:10px;"}
+![Shannon](/shannon-mission.jpg){:width="215px" style="float:left;padding-right:10px;"}
 <br>Taming the dragon
 
 I am the 4th of 9 kids, born and raised in the mormon church. I spent most of my life growing up deep in “Morridor” — the mormon corridor of Utah county — with all of the patriarchy, misogyny, and brainwashing that implies. I went through seminary in high school, attended BYU-Provo, served a mission in Pennsylvania, and married in the temple. I did everything required of me to be a good little mormon — which included reading the Book of Mormon an insanely huge amount of times — even though I had doubts piling up by the hundreds on my shelf; doubts that started when I was 11 and continued on for the next few decades. (Like, why the hell did Nephi need to kill Laban?? He was passed out drunk in the gutter! Why didn’t he just strip his clothes off of him and roll him into the bushes?)  I desperately tried to be TBM — a True Believing Mormon — even while dealing with other serious issues like depression, suicidal thoughts, life threatening health issues, and the loss of a child. (If you want to hear more of my story, listen to Episode 52) 
@@ -42,7 +42,10 @@ Since then, I have tried to be my more authentic self. And I also try to share m
 
 https://instagram.com/dragon_mama_shannon
 
-### Alumni: Braden Hamm
+----
+
+## Alumni
+### Braden Hamm
 
 {% include image.html url="/hamm.jpg" description="Often taught in the \"kimchee squat\"" %}
 
