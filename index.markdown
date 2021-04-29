@@ -18,6 +18,19 @@ layout: page
 
 <!-- ![Glassbox](GBP website cover.png){:width="200px" style="float:left;padding-right:10px;"} -->
 
+<div style="background-color:#1F5CEA; color:#ffffff; text-align: center;" markdown=1>
+
+## We're on Patreon
+
+Become one of our faithful followers and receive new episodes first.
+
+PLUS exclusive **bonus** content, like **outtakes**, special episodes and shoutouts.
+
+[SUPPORT US](https://www.patreon.com/GlassBoxPod)
+
+</div>
+
+
 ## Buy a t-shirt and a mug so people know you're a fan of the show!
 {: style="text-align:center;"}
 
@@ -45,18 +58,6 @@ layout: page
   </div>
 </div>
 
-<div style="background-color:#1F5CEA; color:#ffffff; text-align: center;" markdown=1>
-
-## We're on Patreon
-
-Become one of our faithful followers and receive new episodes first.
-
-PLUS exclusive **bonus** content, like **outtakes**, special episodes and shoutouts.
-
-[SUPPORT US](https://www.patreon.com/GlassBoxPod)
-
-</div>
-
 
 ## VISITORS WELCOME
 
@@ -67,11 +68,16 @@ PLUS exclusive **bonus** content, like **outtakes**, special episodes and shouto
 
 #### A little about the show
 
-Bryce & Shannon team up to take on headlines in and out of Mormonism to see
-what slipped through the cracks. We start with an inspirational quote, move on
-to Mormon headlines, do an occasional deep-dive or interview, learn about some
-interesting or pertinent media, then end with a positive news headline to show
-you that the world isn't always on fire. Enjoy! 
+Bryce & Shannon team up to take on headlines in and out of Mormonism to see
+what slipped through the cracks. We start with a quote that could be
+inspirational, sarcastic, or even funny, depending on the topic, then we move
+on to the main segment, where we usually do a deep dive into the topic to see
+what slipped through the cracks. Occasionally we have an interview where we can
+talk to interesting people. Then we move intoMeia of Great Price and either
+deep dive into different Mormon books or talk about some interesting or
+pertinent media. And we finish up with a positive news headline to show you
+that the world isn't always on fire. Sit down and have a listen! We have a lot
+of fun.
 
   </div>
   <div class="column2" markdown="1">
