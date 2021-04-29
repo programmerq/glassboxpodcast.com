@@ -7,6 +7,7 @@ layout: page
 
 # Home
 
+<!--
 <div class="hero-image" style='background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("GBP website cover.png"); height: 30em; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative;'>
   <div class="hero-text" style='text-align: center; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; '>
     <h2>A PEEK INSIDE DEEP MORMON DOCTRINE & CULTURE</h2>
@@ -14,9 +15,11 @@ layout: page
     <p>Co-host - Shannon Grover</p>
   </div>
 </div>
+-->
 
+<div class="hero-image" style='background-image: url("GBP website cover.png"); height: 30em; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative;'></div>
 
-<!-- ![Glassbox](GBP website cover.png){:width="200px" style="float:left;padding-right:10px;"} -->
+<!-- ![Glassbox](GBP website cover.png){} -->
 
 <div style="background-color:#1F5CEA; color:#ffffff; text-align: center;" markdown=1>
 
