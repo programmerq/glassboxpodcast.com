@@ -14,6 +14,11 @@
   text-align: center;
 }
 
+div.column2 p.left {
+  text-align: left;
+  padding-right: 2.5em;
+}
+
 .column3 {
   float: left;
   width: 33.33%;
@@ -25,4 +30,94 @@
   content: "";
   display: table;
   clear: both;
+}
+
+.hero-image {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+ul.rss-items {
+    margin: 0 0 5px !important;
+}
+.rss-items {
+    color: #000;
+    border-top: 1px solid #C5D7EF;
+    margin: 0;
+    padding: 0;
+}
+
+p.rss-title {
+    line-height: 16px !important;
+    padding: 7px!important;
+    margin: 0 !important;
+}
+
+.rss-title {
+    text-decoration: none;
+    font-family: verdana, sans-serif;
+    font-size: 13px;
+    line-height: 16px;
+    color: #000 !important;
+    font-weight: 700 !important;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+.rss-box {
+    background-color: #E5ECF9;
+    border: 1px solid #C5D7EF;
+    text-align: left;
+    width: 100%;
+    float: none;
+    margin: 0 auto;
+}
+
+.wsite-button {
+    height: 34px;
+    display: inline-block;
+    padding: 0px 43px;
+    background: #f6b647;
+    border: 3px solid #f6b647;
+    text-transform: uppercase;
+    font-size: 16px;
+    color: #fff !important;
+    transition: background 0.5s ease, border 0.5s ease;
+    background-image: none !important;
+}
+
+.wsite-button-inner {
+    color: #ffffff !important;
+    height: 34px !important;
+    line-height: 34px !important;
+    display: block;
+    padding: 0px !important;
+    background: none !important;
+}
+
+.patreon_section {
+    background-color:#2a7ae2;
+    color:#ffffff;
+    text-align: center;
+    vertical-align: middle;
+    //height: 20em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+
+body {
+    background-color: #efefef;
+}
+
+div.wrapper a.site-title {
+    text-transform: uppercase;
+}
+
+.post-content h2 {
+    text-align: center !important;
 }
