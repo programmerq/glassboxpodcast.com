@@ -46,21 +46,27 @@ PLUS exclusive **bonus** content, like **outtakes**, special episodes and shouto
   <div class="column3" markdown="1">
 
 ![Glassbox](gbp_shirt1.jpg){:width="200px" style="padding-right:10px;"}
-<p>THE GLASS BOX PODCAST</p>
+
+THE GLASS BOX PODCAST
+
 [<span class="wsite-button-inner">BUY THIS SHIRT</span>](https://exmomerch.creator-spring.com/listing/glass-box-podcast?product=2&variation=576&size=279){: .wsite-button}
 
   </div>
   <div class="column3" markdown="1">
 
 ![Skepticize Everything Mug](gbp_mug1.jpg){:width="200px" style="padding-right:10px;"}
-<p>SKEPTICIZE EVERYTHING</p>
+
+SKEPTICIZE EVERYTHING
+
 [<span class="wsite-button-inner">BUY THIS MUG</span>](https://exmomerch.creator-spring.com/listing/skepticize-everything-glass-bo?product=658){: .wsite-button}
 
   </div>
   <div class="column3" markdown="1">
 
 ![Glassbox](gbp_shirt2.jpg){:width="200px" style="padding-right:10px;"}
-<p>NAKED MORMONISM</p>
+
+EXMO MERCH
+
 [<span class="wsite-button-inner">BUY THIS SHIRT</span>](https://exmomerch.creator-spring.com/listing/wear-the-truth-exmormon-mercha?product=2&variation=568&size=279){: .wsite-button}
 
   </div>
@@ -81,7 +87,7 @@ what slipped through the cracks. We start with a quote that could be
 inspirational, sarcastic, or even funny, depending on the topic, then we move
 on to the main segment, where we usually do a deep dive into the topic to see
 what slipped through the cracks. Occasionally we have an interview where we can
-talk to interesting people. Then we move intoMeia of Great Price and either
+talk to interesting people. Then we move into Media of Great Price and either
 deep dive into different Mormon books or talk about some interesting or
 pertinent media. And we finish up with a positive news headline to show you
 that the world isn't always on fire. Sit down and have a listen! We have a lot
