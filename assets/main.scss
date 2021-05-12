@@ -121,3 +121,25 @@ div.wrapper a.site-title {
 .post-content h2 {
     text-align: center !important;
 }
+
+.img-left {
+    max-width: 20em;
+    float: left;
+    margin-right: 1em;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.img-right {
+    max-width: 20em;
+    float: right;
+    margin-left: 1em;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+    width: 20em;
+}
