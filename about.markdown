@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## ABOUT THE HOSTS
+## About the Hosts
 
 ### Bryce Blankenagel
 
@@ -28,7 +28,7 @@ I can't deny that the structure was beneficial, and I agree that it takes a vill
 
 ### Shannon Grover
 
-Shannon first appeared on Episode 52 as a guest and has been an official co-host of the podcast starting with Episode 53.
+<span style="font-style: italic">Shannon first appeared on Episode 52 as a guest and has been an official co-host of the podcast starting with Episode 53.</span>
 
 {% include leftimage.html image="/shannon-mission.jpg" description="Taming the dragon" %}
 
@@ -52,7 +52,7 @@ https://instagram.com/dragon_mama_shannon
 ## Alumni
 ### Braden Hamm
 
-Braden co-hosted the podcast with Bryce and Shannon from episode 0 through episode 64.
+<span style="font-style: italic">Braden co-hosted the podcast with Bryce and Shannon from episode 0 through episode 64.</span>
 
 {% include leftimage.html image="/hamm.jpg" description="Often taught in the \"kimchee squat\"" %}
 
