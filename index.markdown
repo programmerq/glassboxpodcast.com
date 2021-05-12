@@ -121,36 +121,18 @@ to get an idea of what you can expect when you hit the ["subscribe"](https://gla
 
 ## Episodes
 
-<div class=rss-box markdown=1>
+<div id=rss markdown=1>
 
 Glass Box Podcast
 {: .rss-title}
 
-<div id=episodelist />
-<script>
-const RSS_URL = `https://glassboxpodcast.libsyn.com/rss`;
+<div id=episodelist></div>
 
-fetch(RSS_URL)
-  .then(response => response.text())
-  .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-  .then(data => {
-    console.log(data);
-    const items = Array.prototype.slice.apply(data.querySelectorAll("item"));
-    let html = `<ul class=rss-items>`;
-    items.slice(0,3).forEach(el => {
-      html += `<li>
-          <a href="${el.querySelector("link").innerText}" target="_blank" rel="noopener">${el.querySelector("title").innerHTML}</a>
-<div>${el.querySelector("description").getInnerHTML().replace("]]>", "")}</div></li>`;
-    });
-    //document.getElementById("episodelist").insertAdjacentHTML("beforeend", html);
-    document.getElementById("episodelist").innerHTML = html;
-  });
-</script>
 </div>
 
-<noscript><iframe iframebody="0" width="100%" height="600px" style="border:0px;" src="https://glassboxpodcast.libsyn.com/page/1/size/4" title="episodes"></noscript>
+<script src="rss.js"></script>
 
-## Subscribe
+<noscript><iframe iframebody="0" width="100%" height="600px" style="border:0px;" src="https://glassboxpodcast.libsyn.com/page/1/size/4" title="episodes" /></noscript>
 
-TODO: do we want to keep the email list signup form?
-
+<script class="podlove-subscribe-button" src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" data-language="en" data-size="medium" data-json-data="podcastData" data-color="#f6b647"></script>
+<noscript><a href="https://glassboxpodcast.libsyn.com/rss">Subscribe to feed</a></noscript>

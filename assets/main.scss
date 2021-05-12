@@ -39,9 +39,16 @@ div.column2 p.left {
   position: relative;
 }
 
+div#episodelist {
+	padding: 0px;
+	border: 1px solid #C5D7EF;
+	font-size: small;
+}
+
 ul.rss-items {
     margin: 0 0 5px !important;
 }
+
 .rss-items {
     color: #000;
     border-top: 1px solid #C5D7EF;
@@ -49,13 +56,21 @@ ul.rss-items {
     padding: 0;
 }
 
+.rss-items li {
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    border-color: rgb(197, 215, 239);
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+
 p.rss-title {
     line-height: 16px !important;
     padding: 7px!important;
     margin: 0 !important;
-}
+    background-color: rgb(197,215,239);
 
-.rss-title {
     text-decoration: none;
     font-family: verdana, sans-serif;
     font-size: 13px;
@@ -74,6 +89,10 @@ p.rss-title {
     width: 100%;
     float: none;
     margin: 0 auto;
+}
+
+#rss {
+	margin-bottom: 2em;
 }
 
 .wsite-button {
