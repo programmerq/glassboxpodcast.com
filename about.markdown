@@ -24,11 +24,13 @@ Please don't think I use the word “cult” for shock factor. Honestly, I don�
 
 I can't deny that the structure was beneficial, and I agree that it takes a village to raise a child, a belief that is heavily embedded into the church's doctrine. However, teaching a child, or any person for that matter, what to think instead of teaching them how to think, is not a good thing for the child or society in general. That's what I'm advocating against. Let's look at the evidence about the mormon religion, from establishment to present, and learn from the experiences and testimonies of the people involved.
 
+Twitter: [@NakedMormonism](https://twitter.com/NakedMormonism)
+
 <div style="clear:both; padding-top: 1em;" />
 
 ### Shannon Grover
 
-<span style="font-style: italic">Shannon first appeared on Episode 52 as a guest and has been an official co-host of the podcast starting with Episode 53.</span>
+<span style="font-style: italic">Shannon first appeared on Episode 52 as a guest and has been an official co-host of the podcast starting with Episode 54.</span>
 
 {% include leftimage.html image="/shannon-mission.jpg" description="Taming the dragon" %}
 
@@ -42,7 +44,9 @@ My Pandora’s Closet full of doubts ended up so full it shattered the door and 
 
 Since then, I have tried to be my more authentic self. And I also try to share my experiences as much as I can because it is important not only that we show the effects the mormon church has on the members, but more importantly to let others see it’s okay to say “enough is enough” and just walk away
 
-https://instagram.com/dragon_mama_shannon
+Instagram: [dragon_mama_shannon](https://instagram.com/dragon_mama_shannon)
+
+Twitter: [dragon_shannon](https://twitter.com/dragon_shannon)
 
 <div style="clear:both; padding-top: 1em;" />
 
@@ -65,4 +69,4 @@ When I got home, I continued doing what was expected of me as a member of the ch
 
 We were devout. We held callings (volunteer positions) with varying levels of responsibility. We chaperoned youth conference. I was actually even a decent home teacher. Then while teaching youth Sunday school from the manual, a thought occurred to me, " I don't believe this." That began happening to me more and more often, and long story short, I'm no longer a member of the LDS church.
 
-https://instagram.com/bradenhamm
+Instagram: [bradenhamm](https://instagram.com/bradenhamm)
