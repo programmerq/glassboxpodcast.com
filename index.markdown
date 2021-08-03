@@ -41,6 +41,8 @@ PLUS exclusive **bonus** content, like **outtakes**, special episodes and shouto
 
 ## Buy a t-shirt and a mug so people know you're a fan of the show!
 {: style="text-align:center;"}
+#### Use coupon code GLASSBOX at checkout for a full tithe off of your order
+{: style="text-align:center;"}
 
 <div class="row">
   <div class="column3" markdown="1">
