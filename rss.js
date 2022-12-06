@@ -9,7 +9,7 @@ fetch(RSS_URL)
     let html = `<ul class=rss-items>`;
     items.slice(0,3).forEach(el => {
       html += `<li>
-          <a href='${el.querySelector("link").getInnerHTML().replace("<![CDATA[", "").replace("]]>", "")}' target="_blank" rel="noopener">${el.querySelector("title").innerHTML}</a>
+          <h4><a href='${el.querySelector("link").getInnerHTML().replace("<![CDATA[", "").replace("]]>", "")}' target="_blank" rel="noopener">${el.querySelector("title").innerHTML}</a></h4>
 <div>${el.querySelector("description").getInnerHTML().replace("<![CDATA[", "").replace("]]>", "").replaceAll("<p> </p>","")}</div></li>`;
     });
     document.getElementById("episodelist").innerHTML = html;
