@@ -47,29 +47,29 @@ PLUS exclusive **bonus** content, like **outtakes**, special episodes and shouto
 <div class="row">
   <div class="column3" markdown="1">
 
-![Glassbox](gbp_shirt1.jpg){:width="200px" style="padding-right:10px;"}
+![Glassbox](gbp_shirt1.png){:width="200px" style="padding-right:10px;"}
 
 THE GLASS BOX PODCAST
 
-[<span class="wsite-button-inner">BUY THIS SHIRT</span>](https://exmomerch.creator-spring.com/listing/glass-box-podcast?product=2&variation=576&size=279){: .wsite-button}
+[<span class="wsite-button-inner">BUY THIS SHIRT</span>](https://www.redbubble.com/i/t-shirt/Glass-Box-Podcast-by-exmoapparel/118923366.UGYPM){: .wsite-button}
 
   </div>
   <div class="column3" markdown="1">
 
-![Skepticize Everything Mug](gbp_mug1.jpg){:width="200px" style="padding-right:10px;"}
+![Skepticize Everything Mug](gbp_mug1.png){:width="200px" style="padding-right:10px;"}
 
 SKEPTICIZE EVERYTHING
 
-[<span class="wsite-button-inner">BUY THIS MUG</span>](https://exmomerch.creator-spring.com/listing/skepticize-everything-glass-bo?product=658){: .wsite-button}
+[<span class="wsite-button-inner">BUY THIS MUG</span>](https://www.redbubble.com/i/mug/Skepticize-Everything-Glass-Box-Podcast-by-exmoapparel/75119897.W3OIY){: .wsite-button}
 
   </div>
   <div class="column3" markdown="1">
 
-![Glassbox](gbp_shirt2.jpg){:width="200px" style="padding-right:10px;"}
+![Glassbox](gbp_tank1.jpg){:width="200px" style="padding-right:10px;"}
 
 EXMO MERCH
 
-[<span class="wsite-button-inner">BUY THIS SHIRT</span>](https://exmomerch.creator-spring.com/listing/wear-the-truth-exmormon-mercha?product=2&variation=568&size=279){: .wsite-button}
+[<span class="wsite-button-inner">BUY THIS TANK TOP</span>](https://www.redbubble.com/i/tank-top/Retro-Molly-ExMormon-Girl-Wink-Snap-Smile-90s-by-exmoapparel/74031189.PQIVH){: .wsite-button}
 
   </div>
 </div>
