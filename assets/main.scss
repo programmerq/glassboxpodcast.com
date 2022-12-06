@@ -124,9 +124,13 @@ p.rss-title {
     vertical-align: middle;
     //height: 20em;
     margin-top: 2em;
-    margin-bottom: 2em;
+    //margin-bottom: 2em;
     padding-top: 4em;
     padding-bottom: 4em;
+}
+
+.post-content .patreon_section h2 {
+    margin-top: 0px;
 }
 
 body {
@@ -139,6 +143,7 @@ div.wrapper a.site-title {
 
 .post-content h2 {
     text-align: center !important;
+    margin-top: 2em;
 }
 
 .img-left {

@@ -41,8 +41,6 @@ PLUS exclusive **bonus** content, like **outtakes**, special episodes and shouto
 
 ## Buy a t-shirt and a mug so people know you're a fan of the show!
 {: style="text-align:center;"}
-#### Use coupon code GLASSBOX at checkout for a full tithe off of your order
-{: style="text-align:center;"}
 
 <div class="row">
   <div class="column3" markdown="1">
@@ -67,7 +65,7 @@ SKEPTICIZE EVERYTHING
 
 ![Glassbox](gbp_tank1.jpg){:width="200px" style="padding-right:10px;"}
 
-EXMO MERCH
+MOLLY EXMORMON
 
 [<span class="wsite-button-inner">BUY THIS TANK TOP</span>](https://www.redbubble.com/i/tank-top/Retro-Molly-ExMormon-Girl-Wink-Snap-Smile-90s-by-exmoapparel/74031189.PQIVH){: .wsite-button}
 
