@@ -4,7 +4,7 @@
 
 layout: page
 image:
-  path: /GBPUpdate-full-res.png
+  path: /og-image.png
   alt: The Glass Box Podcast with Bryce & Shannon
 ---
 
