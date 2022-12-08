@@ -19,6 +19,13 @@
         </label>
 
         <div class="trigger">
+            <div id="paypaldonate" class="page-link" style="display: inline-block">
+                <form action="https://www.paypal.com/donate" method="post" target="_top">
+                    <input type="hidden" name="hosted_button_id" value="7GWNVLRPTB3ZJ" />
+                    <input type="image" src="/assets/PayPal-Donate-Button-PNG.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" style="height: 2em;" />
+                    <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+                </form>
+            </div>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
