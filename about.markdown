@@ -2,6 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+image:
+  path: /GBPUpdate-full-res.png
+  alt: The Glass Box Podcast with Bryce & Shannon
 ---
 
 ## About the Hosts

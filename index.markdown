@@ -3,6 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+image:
+  path: /GBPUpdate-full-res.png
+  alt: The Glass Box Podcast with Bryce & Shannon
 ---
 
 <!--

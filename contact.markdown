@@ -2,6 +2,9 @@
 layout: page
 title: Contact
 permalink: /contact/
+image:
+  path: /GBPUpdate-full-res.png
+  alt: The Glass Box Podcast with Bryce & Shannon
 ---
 
 {%- include social.html -%}
